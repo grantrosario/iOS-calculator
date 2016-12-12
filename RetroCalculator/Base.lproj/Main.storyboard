@@ -176,6 +176,9 @@
                                                     <constraint firstAttribute="width" constant="51" id="k6f-9u-dq0"/>
                                                 </constraints>
                                                 <state key="normal" image="0"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="b8H-rg-vsD"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Eg-Bq-lOP">
                                                 <rect key="frame" x="61" y="0.0" width="51" height="53"/>

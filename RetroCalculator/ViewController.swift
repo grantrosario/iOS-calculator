@@ -62,7 +62,6 @@ class ViewController: UIViewController {
         
     }
     
-    
     @IBAction func onDividePressed(sender: AnyObject) {
         processOperation(operation: .Divide)
     }
